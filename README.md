@@ -8,3 +8,6 @@ I also recommend reading the uBlock Origin documentation.
 
 ## Compatibility
 This code has been written for uBlock Origin and uBlock Origin only. You may of course try it with any other adblocking software you like, but it is not designed for that and likely will not work.
+
+## License
+This code is licensed under [The Unlicense](htts://https://unlicense.org/).

@@ -1,0 +1,34 @@
+! Title: mittens' Mormonism blocklist
+! Version: 2025-11-23v1
+! Expires: 30
+! Description: This list is based on a leak of their websites found over on WikiLeaks: https://file.wikileaks.org/file/complete-scientology-domain-list.txt
+! Note: For more basic lists might I divert your kind attention to Github user DandelionSprout's delightful anti-religion-list: https://github.com/DandelionSprout/adfilt/blob/master/Sensitive%20lists/Dandelion%20Sprout's%20Anti-Religion%20List.txt .
+! License: The Unlicense
+! Homepage: https://github.com/mittens-codes/uBlock-filters-and-block-lists
+! Issues: https://github.com/mittens-codes/uBlock-filters-and-block-lists/issues
+
+angelfire.com
+bookofmormonevidence.org
+churchofjesuschristtemples.org
+churchofjesuschrist.org
+fairmormon.org
+forthosewhowonder.com
+futuremissionary.com
+josephsmithpapers.org
+jwha.info
+lds.org
+lds365.com
+ldsdaily.com
+ldsgospeldoctrine.net
+lightplanet.com
+maxwellinstitute.byu.edu
+mormon.org
+mormonscholarstestify.org
+mormonspectrum.org
+mormonthink.com
+mormonwiki.com
+shieldsresearch.org
+signaturebookslibrary.org
+solomonspalding.com
+staylds.com
+sunstonemagazine.com

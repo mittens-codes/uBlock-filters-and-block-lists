@@ -1,0 +1,3 @@
+# Attribute definitions
+# For "linguist-language" values, see https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml
+[attr]adb   linguist-detectable linguist-language=AdBlock

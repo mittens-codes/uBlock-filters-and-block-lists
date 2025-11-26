@@ -3,6 +3,6 @@
 [attr]adb   linguist-detectable linguist-language=AdBlock
 
 # AdBlock filter files
-*AntiMormonismList.txt linguist-detectable linguist-language=AdBlock
-*AntiReligionAddition.txt linguist-detectable linguist-language=AdBlock
-*AntiScientologyList.txt linguist-detectable linguist-language=AdBlock
+AntiMormonismList.txt linguist-detectable linguist-language=AdBlock
+AntiReligionAddition.txt linguist-detectable linguist-language=AdBlock
+AntiScientologyList.txt linguist-detectable linguist-language=AdBlock
